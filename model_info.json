@@ -1,0 +1,10 @@
+{
+  "DQN": {
+    "parameters": 10180,
+    "weights_kb": 39.765625
+  },
+  "PPO": {
+    "parameters": 18821,
+    "weights_kb": 73.51953125
+  }
+}
